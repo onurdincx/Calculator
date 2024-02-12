@@ -1,0 +1,16 @@
+C:\Users\DINC\Desktop\FinalProjesi\FinalProjesi\FinalProjesi\bin\Debug\netcoreapp3.1\FinalProjesi.exe
+C:\Users\DINC\Desktop\FinalProjesi\FinalProjesi\FinalProjesi\bin\Debug\netcoreapp3.1\FinalProjesi.deps.json
+C:\Users\DINC\Desktop\FinalProjesi\FinalProjesi\FinalProjesi\bin\Debug\netcoreapp3.1\FinalProjesi.runtimeconfig.json
+C:\Users\DINC\Desktop\FinalProjesi\FinalProjesi\FinalProjesi\bin\Debug\netcoreapp3.1\FinalProjesi.runtimeconfig.dev.json
+C:\Users\DINC\Desktop\FinalProjesi\FinalProjesi\FinalProjesi\bin\Debug\netcoreapp3.1\FinalProjesi.dll
+C:\Users\DINC\Desktop\FinalProjesi\FinalProjesi\FinalProjesi\bin\Debug\netcoreapp3.1\FinalProjesi.pdb
+C:\Users\DINC\Desktop\FinalProjesi\FinalProjesi\FinalProjesi\obj\Debug\netcoreapp3.1\FinalProjesi.csprojAssemblyReference.cache
+C:\Users\DINC\Desktop\FinalProjesi\FinalProjesi\FinalProjesi\obj\Debug\netcoreapp3.1\FinalProjesi.Form1.resources
+C:\Users\DINC\Desktop\FinalProjesi\FinalProjesi\FinalProjesi\obj\Debug\netcoreapp3.1\FinalProjesi.csproj.GenerateResource.cache
+C:\Users\DINC\Desktop\FinalProjesi\FinalProjesi\FinalProjesi\obj\Debug\netcoreapp3.1\FinalProjesi.AssemblyInfoInputs.cache
+C:\Users\DINC\Desktop\FinalProjesi\FinalProjesi\FinalProjesi\obj\Debug\netcoreapp3.1\FinalProjesi.AssemblyInfo.cs
+C:\Users\DINC\Desktop\FinalProjesi\FinalProjesi\FinalProjesi\obj\Debug\netcoreapp3.1\FinalProjesi.csproj.CoreCompileInputs.cache
+C:\Users\DINC\Desktop\FinalProjesi\FinalProjesi\FinalProjesi\obj\Debug\netcoreapp3.1\FinalProjesi.dll
+C:\Users\DINC\Desktop\FinalProjesi\FinalProjesi\FinalProjesi\obj\Debug\netcoreapp3.1\FinalProjesi.pdb
+C:\Users\DINC\Desktop\FinalProjesi\FinalProjesi\FinalProjesi\obj\Debug\netcoreapp3.1\FinalProjesi.genruntimeconfig.cache
+C:\Users\DINC\Desktop\FinalProjesi\FinalProjesi\FinalProjesi\obj\Debug\netcoreapp3.1\FinalProjesi.Properties.Resources.resources
