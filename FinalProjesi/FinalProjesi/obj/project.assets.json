@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DINC\\Downloads\\Calculator\\FinalProjesi\\FinalProjesi\\FinalProjesi.csproj",
+      "projectUniqueName": "C:\\Users\\DINC\\Desktop\\deneme\\Calculator\\FinalProjesi\\FinalProjesi\\FinalProjesi.csproj",
       "projectName": "FinalProjesi",
-      "projectPath": "C:\\Users\\DINC\\Downloads\\Calculator\\FinalProjesi\\FinalProjesi\\FinalProjesi.csproj",
+      "projectPath": "C:\\Users\\DINC\\Desktop\\deneme\\Calculator\\FinalProjesi\\FinalProjesi\\FinalProjesi.csproj",
       "packagesPath": "C:\\Users\\DINC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DINC\\Downloads\\Calculator\\FinalProjesi\\FinalProjesi\\obj\\",
+      "outputPath": "C:\\Users\\DINC\\Desktop\\deneme\\Calculator\\FinalProjesi\\FinalProjesi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DINC\\AppData\\Roaming\\NuGet\\NuGet.Config",
